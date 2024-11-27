@@ -1,0 +1,331 @@
+Number of maximum nodes: 50
+
+Inserting 7
+
+Inserting 17
+
+Inserting 173
+
+Inserting 256
+
+Inserting 130
+
+Inserting 92
+
+Inserting 243
+
+Information in Tree: 
+Pre Order Traversal: 
+7 17 173 130 92 256 243 
+In Order Traversal: 
+7 17 92 130 173 243 256 
+
+Inserting 236
+
+Inserting 23
+
+Inserting 145
+
+Raw Data: 
+Index 40: Info: 145, Left: -1, Right: -1
+Index 41: Info: 23, Left: -1, Right: -1
+Index 42: Info: 236, Left: -1, Right: -1
+Index 43: Info: 243, Left: 42, Right: -1
+Index 44: Info: 92, Left: 41, Right: -1
+Index 45: Info: 130, Left: 44, Right: 40
+Index 46: Info: 256, Left: 43, Right: -1
+Index 47: Info: 173, Left: 45, Right: 46
+Index 48: Info: 17, Left: -1, Right: 47
+Index 49: Info: 7, Left: -1, Right: 48
+Free Indexes: 
+39, 38, 37, 36, 35, 34, 33, 32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0
+
+Inserting 240
+
+Inserting 197
+
+Inserting 192
+
+Inserting 73
+
+Inserting 87
+
+Inserting 30
+
+Inserting 26
+
+Inserting 84
+
+Inserting 40
+
+Inserting 112
+
+Information in Tree: 
+Pre Order Traversal: 
+7 17 173 130 92 23 73 30 26 40 87 84 112 145 256 243 236 197 192 240 
+In Order Traversal: 
+7 17 23 26 30 40 73 84 87 92 112 130 145 173 192 197 236 240 243 256 
+
+Finding 130
+Number found at index 45.
+
+Information in Tree: 
+Pre Order Traversal: 
+7 17 173 130 92 23 73 30 26 40 87 84 112 145 256 243 236 197 192 240 
+In Order Traversal: 
+7 17 23 26 30 40 73 84 87 92 112 130 145 173 192 197 236 240 243 256 
+
+Inserting 130
+
+Inserting 158
+
+Inserting 114
+
+Raw Data: 
+Index 27: Info: 114, Left: -1, Right: -1
+Index 28: Info: 158, Left: -1, Right: -1
+Index 29: Info: 130, Left: -1, Right: -1
+Index 30: Info: 112, Left: -1, Right: 27
+Index 31: Info: 40, Left: -1, Right: -1
+Index 32: Info: 84, Left: -1, Right: -1
+Index 33: Info: 26, Left: -1, Right: -1
+Index 34: Info: 30, Left: 33, Right: 31
+Index 35: Info: 87, Left: 32, Right: -1
+Index 36: Info: 73, Left: 34, Right: 35
+Index 37: Info: 192, Left: -1, Right: -1
+Index 38: Info: 197, Left: 37, Right: -1
+Index 39: Info: 240, Left: -1, Right: -1
+Index 40: Info: 145, Left: 29, Right: 28
+Index 41: Info: 23, Left: -1, Right: 36
+Index 42: Info: 236, Left: 38, Right: 39
+Index 43: Info: 243, Left: 42, Right: -1
+Index 44: Info: 92, Left: 41, Right: 30
+Index 45: Info: 130, Left: 44, Right: 40
+Index 46: Info: 256, Left: 43, Right: -1
+Index 47: Info: 173, Left: 45, Right: 46
+Index 48: Info: 17, Left: -1, Right: 47
+Index 49: Info: 7, Left: -1, Right: 48
+Free Indexes: 
+26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0
+
+Inserting 60
+
+Inserting 155
+
+Inserting 56
+
+Inserting 33
+
+Inserting 83
+
+Inserting 163
+
+Inserting 78
+
+Inserting 116
+
+Inserting 235
+
+Inserting 58
+
+Inserting 99
+
+Inserting 212
+
+Inserting 35
+
+Inserting 21
+
+Inserting 148
+
+Inserting 77
+
+Inserting 1
+
+Inserting 251
+
+Inserting 183
+
+Information in Tree: 
+Pre Order Traversal: 
+7 1 17 173 130 92 23 21 73 30 26 40 33 35 60 56 58 87 84 83 78 77 112 99 114 116 145 130 158 155 148 163 256 243 236 197 192 183 235 212 240 251 
+In Order Traversal: 
+1 7 17 21 23 26 30 33 35 40 56 58 60 73 77 78 83 84 87 92 99 112 114 116 130 130 145 148 155 158 163 173 183 192 197 212 235 236 240 243 251 256 
+
+Finding 196
+Number not found.
+
+Information in Tree: 
+Pre Order Traversal: 
+7 1 17 173 130 92 23 21 73 30 26 40 33 35 60 56 58 87 84 83 78 77 112 99 114 116 145 130 158 155 148 163 256 243 236 197 192 183 235 212 240 251 
+In Order Traversal: 
+1 7 17 21 23 26 30 33 35 40 56 58 60 73 77 78 83 84 87 92 99 112 114 116 130 130 145 148 155 158 163 173 183 192 197 212 235 236 240 243 251 256 
+
+Inserting 25
+
+Inserting 5
+
+Inserting 193
+
+Inserting 79
+
+Inserting 175
+
+Inserting 239
+
+Inserting 128
+
+Inserting 138
+
+Inserting 188
+Cannot insert data, BST Full.
+
+Inserting 157
+Cannot insert data, BST Full.
+
+Inserting 0
+Cannot insert data, BST Full.
+
+Inserting 254
+Cannot insert data, BST Full.
+
+Inserting 69
+Cannot insert data, BST Full.
+
+Inserting 244
+Cannot insert data, BST Full.
+
+Inserting 154
+Cannot insert data, BST Full.
+
+Inserting 241
+Cannot insert data, BST Full.
+
+Inserting 273
+Cannot insert data, BST Full.
+
+Inserting 143
+Cannot insert data, BST Full.
+
+Inserting 97
+Cannot insert data, BST Full.
+
+Inserting 103
+Cannot insert data, BST Full.
+
+Information in Tree: 
+Pre Order Traversal: 
+7 1 5 17 173 130 92 23 21 73 30 26 25 40 33 35 60 56 58 87 84 83 78 77 79 112 99 114 116 128 145 130 138 158 155 148 163 256 243 236 197 192 183 175 193 235 212 240 239 251 
+In Order Traversal: 
+1 5 7 17 21 23 25 26 30 33 35 40 56 58 60 73 77 78 79 83 84 87 92 99 112 114 116 128 130 130 138 145 148 155 158 163 173 175 183 192 193 197 212 235 236 239 240 243 251 256 
+
+Finding 83
+Number found at index 22.
+
+Information in Tree: 
+Pre Order Traversal: 
+7 1 5 17 173 130 92 23 21 73 30 26 25 40 33 35 60 56 58 87 84 83 78 77 79 112 99 114 116 128 145 130 138 158 155 148 163 256 243 236 197 192 183 175 193 235 212 240 239 251 
+In Order Traversal: 
+1 5 7 17 21 23 25 26 30 33 35 40 56 58 60 73 77 78 79 83 84 87 92 99 112 114 116 128 130 130 138 145 148 155 158 163 173 175 183 192 193 197 212 235 236 239 240 243 251 256 
+
+Inserting 120
+Cannot insert data, BST Full.
+
+Inserting 202
+Cannot insert data, BST Full.
+
+Inserting 75
+Cannot insert data, BST Full.
+
+Inserting 174
+Cannot insert data, BST Full.
+
+Inserting 50
+Cannot insert data, BST Full.
+
+Inserting 253
+Cannot insert data, BST Full.
+
+Raw Data: 
+Index 0: Info: 138, Left: -1, Right: -1
+Index 1: Info: 128, Left: -1, Right: -1
+Index 2: Info: 239, Left: -1, Right: -1
+Index 3: Info: 175, Left: -1, Right: -1
+Index 4: Info: 79, Left: -1, Right: -1
+Index 5: Info: 193, Left: -1, Right: -1
+Index 6: Info: 5, Left: -1, Right: -1
+Index 7: Info: 25, Left: -1, Right: -1
+Index 8: Info: 183, Left: 3, Right: -1
+Index 9: Info: 251, Left: -1, Right: -1
+Index 10: Info: 1, Left: -1, Right: 6
+Index 11: Info: 77, Left: -1, Right: -1
+Index 12: Info: 148, Left: -1, Right: -1
+Index 13: Info: 21, Left: -1, Right: -1
+Index 14: Info: 35, Left: -1, Right: -1
+Index 15: Info: 212, Left: -1, Right: -1
+Index 16: Info: 99, Left: -1, Right: -1
+Index 17: Info: 58, Left: -1, Right: -1
+Index 18: Info: 235, Left: 15, Right: -1
+Index 19: Info: 116, Left: -1, Right: 1
+Index 20: Info: 78, Left: 11, Right: 4
+Index 21: Info: 163, Left: -1, Right: -1
+Index 22: Info: 83, Left: 20, Right: -1
+Index 23: Info: 33, Left: -1, Right: 14
+Index 24: Info: 56, Left: -1, Right: 17
+Index 25: Info: 155, Left: 12, Right: -1
+Index 26: Info: 60, Left: 24, Right: -1
+Index 27: Info: 114, Left: -1, Right: 19
+Index 28: Info: 158, Left: 25, Right: 21
+Index 29: Info: 130, Left: -1, Right: 0
+Index 30: Info: 112, Left: 16, Right: 27
+Index 31: Info: 40, Left: 23, Right: 26
+Index 32: Info: 84, Left: 22, Right: -1
+Index 33: Info: 26, Left: 7, Right: -1
+Index 34: Info: 30, Left: 33, Right: 31
+Index 35: Info: 87, Left: 32, Right: -1
+Index 36: Info: 73, Left: 34, Right: 35
+Index 37: Info: 192, Left: 8, Right: 5
+Index 38: Info: 197, Left: 37, Right: 18
+Index 39: Info: 240, Left: 2, Right: -1
+Index 40: Info: 145, Left: 29, Right: 28
+Index 41: Info: 23, Left: 13, Right: 36
+Index 42: Info: 236, Left: 38, Right: 39
+Index 43: Info: 243, Left: 42, Right: 9
+Index 44: Info: 92, Left: 41, Right: 30
+Index 45: Info: 130, Left: 44, Right: 40
+Index 46: Info: 256, Left: 43, Right: -1
+Index 47: Info: 173, Left: 45, Right: 46
+Index 48: Info: 17, Left: -1, Right: 47
+Index 49: Info: 7, Left: 10, Right: 48
+Free Indexes: 
+None
+
+Inserting 177
+Cannot insert data, BST Full.
+
+Inserting 134
+Cannot insert data, BST Full.
+
+Inserting 221
+Cannot insert data, BST Full.
+
+Inserting 133
+Cannot insert data, BST Full.
+
+Inserting 298
+Cannot insert data, BST Full.
+
+Inserting 102
+Cannot insert data, BST Full.
+
+Inserting 29
+Cannot insert data, BST Full.
+
+Inserting 242
+Cannot insert data, BST Full.
+
+Information in Tree: 
+Pre Order Traversal: 
+7 1 5 17 173 130 92 23 21 73 30 26 25 40 33 35 60 56 58 87 84 83 78 77 79 112 99 114 116 128 145 130 138 158 155 148 163 256 243 236 197 192 183 175 193 235 212 240 239 251 
+In Order Traversal: 
+1 5 7 17 21 23 25 26 30 33 35 40 56 58 60 73 77 78 79 83 84 87 92 99 112 114 116 128 130 130 138 145 148 155 158 163 173 175 183 192 193 197 212 235 236 239 240 243 251 256 

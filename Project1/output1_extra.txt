@@ -1,0 +1,20 @@
+Number of expressions: 3
+
+Displaying all expressions: 
+Expression 0 : a b c 
+Expression 1 : a b c d e 
+Expression 2 : a e f a c 
+
+Find b in 0: found
+
+Find c in 0: found
+
+Find g in 1: not found
+
+Height of expression 0 : 1
+
+Height of expression 2 : 3
+
+Duplicates in 2 : a
+
+LCA distance between a and d in expression 1 : 1

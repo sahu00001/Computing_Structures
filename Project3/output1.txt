@@ -1,0 +1,21 @@
+Number of elements: 10
+Number of comparisons allowed: 10
+
+Randomly generated elements: ~~~~~~~~~~
+1226 1238 1442 1276 1054 1113 1058 1033 1384 1072 
+
+Completely sorted elements: ~~~~~~~~~~
+1033 1054 1058 1072 1113 1226 1238 1276 1384 1442 
+
+Bubble Sort Result: ~~~~~~~~~~
+1226 1238 1276 1054 1113 1058 1033 1384 1072 1442 
+
+Number of inversions in bubResult: 21
+Chebyshev distance in bubResult: 6
+
+Shell Sort Result: ~~~~~~~~~~
+1058 1033 1113 1072 1054 1384 1226 1238 1442 1276 
+
+Number of inversions in shellResult: 9
+Chebyshev distance in shellResult: 3
+
